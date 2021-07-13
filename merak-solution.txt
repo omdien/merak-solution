@@ -2,5 +2,5 @@ Resolusi pengembangan
 - Applikasi Web Stasiun KIPM Merak
 - Tools Optimasi Linux
 - Tools Optimasi Windows
-- Invetarisasi HW yang ada di Stasiun KIPM Merak
 - Pengembangan Infrastruktur IT di Stasiun KIPM Merak
+- Penyusunan Pengusulan Angka Kredit Pranata Komputer
